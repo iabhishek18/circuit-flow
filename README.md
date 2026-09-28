@@ -1,5 +1,11 @@
 # Circuit Flow
 
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+
+</div>
+
 A circuit-connection puzzle game built with Next.js, TypeScript, and Tailwind CSS. Rotate tiles to route electricity from the power source to every endpoint and light up the board.
 
 ## Gameplay
@@ -26,6 +32,12 @@ A circuit-connection puzzle game built with Next.js, TypeScript, and Tailwind CS
 | Language | TypeScript |
 | Styling | Tailwind CSS |
 | Animation | Framer Motion |
+
+## 📸 Screenshots
+
+### Puzzle Board
+
+![Puzzle Board](screenshots/board.png)
 
 ## Getting Started
 
